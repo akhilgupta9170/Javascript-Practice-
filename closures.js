@@ -46,9 +46,7 @@
  // Outputs: 6
 
 
-let name = "Mozilla";
-function displayName() {
-  console.log(name);
-}
-name = "Akhil"
-displayName(); // Outputs: Akhil
+// 
+console.log(a)
+var a;
+console.log(a)
